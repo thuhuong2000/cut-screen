@@ -1,0 +1,46 @@
+.menu{
+    background-color: darkgrey;
+    height: 20%;
+    text-align: center;
+}
+.container-all{
+    background-color: rgb(246,246,253);
+}
+.img{
+    width: 90%;
+    height: 45%;
+    display: block;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    box-shadow: 1px 1px ;
+}
+.line1{
+    position: relative;
+}
+.box1{
+    float:left;
+    background-color:white;
+    text-align: center;
+}
+.box2{
+    float:right;
+    background-color: purple;
+    color: white;
+    background: linear-gradient(rgb(95,62,186) ,rgb(186,52,213));
+}
+.line2{
+    position: relative;
+}
+.box3{
+    float:right;
+    background-color: purple;
+    color: white;
+    background: linear-gradient(rgb(95,62,186) ,rgb(186,52,213));
+}
+.box4{
+    float:right;
+    background-color: purple;
+    color: white;
+    background: linear-gradient(rgb(95,62,186) ,rgb(186,52,213));
+}
