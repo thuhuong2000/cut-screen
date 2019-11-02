@@ -1,46 +1,65 @@
+
 .menu{
     background-color: darkgrey;
-    height: 20%;
     text-align: center;
+  
 }
 .container-all{
     background-color: rgb(246,246,253);
+    padding: 1rem;
 }
 .img{
-    width: 90%;
-    height: 45%;
+    width: 95%;
+    height: 55%;
     display: block;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 1vw ;
+    margin-right: 1vw;
+    box-shadow:1mm 1mm slategray;
     
-    box-shadow: 1px 1px ;
 }
 .line1{
-    position: relative;
+    padding: 3rem;
 }
 .box1{
-    float:left;
-    background-color:white;
+    float: right;
+    background-color: white;
     text-align: center;
+    padding: 12px;
+    padding-left: 40px;
+    
 }
 .box2{
-    float:right;
+    float:left;
     background-color: purple;
     color: white;
     background: linear-gradient(rgb(95,62,186) ,rgb(186,52,213));
+    font-size: small;
+    padding: 12px;
+    padding-right:0 ;
+    
 }
+
 .line2{
-    position: relative;
+    
+    padding: 1rem;
 }
 .box3{
-    float:right;
+    float: top;
+    text-align: center;
     background-color: purple;
     color: white;
     background: linear-gradient(rgb(95,62,186) ,rgb(186,52,213));
+    padding: 12px;
+    padding-left: 50px;
+   
 }
 .box4{
-    float:right;
+    float: top;
     background-color: purple;
     color: white;
     background: linear-gradient(rgb(95,62,186) ,rgb(186,52,213));
+    padding: 12px ;
+    padding-right: 100px;
+    
+    
 }
